@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo Laface</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Cactvs**
+- 🔭 I’m currently working on **Infracommerce**
 
 - 🌱 I’m currently learning **TypeScrip, CleanCode, Jest and TDD**
 
